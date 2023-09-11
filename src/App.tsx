@@ -12,7 +12,6 @@ function App() {
       ) : (
         <Form toggle={toggle.toggleValue} />
       )}
-      {/* <button>Cadastre-se agora!</button> */}
     </div>
   );
 }
